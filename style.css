@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
     color:blanchedalmond;
     font-family: Tahoma;
     text-align: center;
@@ -11,7 +11,7 @@ label{
 }
 input,button{
     color: white;
-    background-color: black;
+    background-color: rgb(92, 92, 92);
     font-size: 20px;
     border-radius: 8px;
 }
